@@ -1,6 +1,6 @@
 # Stocks Client
 
-Inspired by client code of chatper 4, and using React.
+Inspired by client code of O'Reilly's book Websocket, chatper 4, and using React.
 
 To run,
 
