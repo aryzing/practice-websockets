@@ -2,13 +2,6 @@
 
 Behaves like [chapter 4's client](../../ch04/client/README.md), but using TLS.
 
-<!-- To serve the app using HTTPS use,
-
-```sh
-# in another terminal
-yarn serve src/ch04/client
-``` -->
-
 To get started, run
 
 ```bash
